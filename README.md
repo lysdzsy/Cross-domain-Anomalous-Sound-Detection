@@ -35,9 +35,11 @@ pandas==1.4.2
 umap-learn==0.5.6
 # How to Train
 cd ./pseudoattr
+
 bash pseudo_attr.sh
 
 cd ./jobs/exp
+
 bash exp3_PL.sh
 # Reference
 This paper was submitted to IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS and is currently in the second round of review. The following papers were used as references for this code.
