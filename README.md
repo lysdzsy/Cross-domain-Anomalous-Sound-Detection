@@ -3,20 +3,35 @@ Cross-domain Anomalous Sound Detection for Antarctic Diesel Generator Sets Based
 ![framework](https://github.com/user-attachments/assets/14f04a58-1df7-4727-a004-7f362f02ec62)
 # Dependencies
 pytorch_gpu_2.1.1
+
 librosa==0.10.2.post1
+
 omegaconf==2.2.3
+
 scikit_learn==1.1.1
+
 hydra-core==1.2.0
+
 tqdm==4.66.5
+
 lightning==2.4.0
+
 relpath==3.0.5
+
 torch==2.1.1
+
 torchvision==0.16.1
+
 torchaudio==2.1.1
+
 tensorboardX==2.6.2.2
+
 matplotlib==3.5.1
+
 numpy==1.23.5
+
 pandas==1.4.2
+
 umap-learn==0.5.6
 # How to Train
 cd ./pseudoattr
