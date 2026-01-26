@@ -2,7 +2,7 @@
 Cross-domain Anomalous Sound Detection for Antarctic Diesel Generator Sets Based on Pseudo-label Generation and Feature Disentanglement
 
 The dataset can be downloaded from: 
-https://pan.baidu.com/s/1N2eLIPrgazEFidhomSowew?pwd=dq9e.
+https://pan.baidu.com/s/1d8Ep4EwZf9P1uDCmP5Rbdw?pwd=t6gt 
 
 ![framework](https://github.com/user-attachments/assets/14f04a58-1df7-4727-a004-7f362f02ec62)
 # Dependencies
