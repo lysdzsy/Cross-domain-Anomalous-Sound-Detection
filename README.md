@@ -1,5 +1,6 @@
 # Cross-domain-Anomalous-Sound-Detection
 Cross-domain Anomalous Sound Detection for Antarctic Diesel Generator Sets Based on Pseudo-label Generation and Feature Disentanglement
+
 The dataset can be downloaded from: 
 https://pan.baidu.com/s/1N2eLIPrgazEFidhomSowew?pwd=dq9e.
 
